@@ -26,7 +26,7 @@ export default function Header() {
           `}
         >
           {[
-            { label: 'Home', href: '/' },
+            { label: 'Home', href: '/home' },
             { label: 'Docs', href: '/docs' },
             { label: 'Showcase', href: '/portfolio' },
             { label: 'Start App', href: '/new' },
